@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+##欢迎来到“小贼”的空间
 
-You can use the [editor on GitHub](https://github.com/tiny-thief/tiny-thief.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+这是一个不成熟的博客╮(╯▽╰)╭但是我会尽量把它完善。毕竟这个博客只是个单向箭头。。。好像不能评论来着。。。
+这是我https://github.com/tiny-thief/tiny-thief.github.io （话说有人能告诉我edit file 的正确用法吗X﹏X）
 
 ### Markdown
 
