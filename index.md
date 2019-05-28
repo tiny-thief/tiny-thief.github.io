@@ -1,9 +1,18 @@
-##欢迎来到“小贼”的空间
+# 欢迎来到“小贼”的空间
 
 这是一个不成熟的博客╮(╯▽╰)╭但是我会尽量把它完善。毕竟这个博客只是个单向箭头。。。好像不能评论来着。。。
 这是我https://github.com/tiny-thief/tiny-thief.github.io （话说有人能告诉我edit file 的正确用法吗X﹏X）
 
-### Markdown
+## 我的目录
+- [edit file 的摸索]（#edit file 的摸索）
+
+
+
+## edit file 的摸索
+ - [。。。](#。。。哈哈哈) 复制的
+ - [。。。 ](#。。。高规格） 自打的
+差别在哪呢
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
