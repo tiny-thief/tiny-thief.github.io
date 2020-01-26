@@ -10,11 +10,14 @@
 
 ## edit file 的摸索
  - [。。。](#。。。哈哈哈) 复制的
- - [。。。 ](#。。。高规格） 自打的
+ - [。。。](#。。。高规格） 自打的
 差别在哪呢
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 正式开始投入使用了 （2020.1.26）
+
+ ```复制我的文章
+
 
 ```markdown
 Syntax highlighted code block
