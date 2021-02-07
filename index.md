@@ -10,7 +10,7 @@
 
 ## edit file 的摸索
  - [。。。](#。。。哈哈哈) 复制的
- - [。。。](#。。。高规格） 自打的
+ - [。。。](#https://c.y.qq.com/base/fcgi-bin/u?__=FZHtiom） 自打的
 
  - # <B>我尝试使用HTML语言
 
