@@ -20,7 +20,7 @@
  -<a href="https://blog.csdn.net/The_Best_Hacker/article/details/82891527" target="_blank">HTML用法大全</a>
 
  #来贴个音乐
- -IE:<body bgsound="https://c.y.qq.com/base/fcgi-bin/u?__=FZHtiom" loop=infinite>
+ -IE:<body bgsound="https://i.y.qq.com/v8/playsong.html?songid=106237551&source=yqq#wechat_redirect" loop=infinite>
 
 # 正式开始投入使用了 （2020.1.26）
 
