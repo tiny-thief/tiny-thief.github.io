@@ -16,8 +16,11 @@
 
  -<B>来做个链接吧
  -<a href="要跳转的目标路径" target="_blank">要输入的文字</a>
--模仿使用
--<a href="https://blog.csdn.net/The_Best_Hacker/article/details/82891527" target="_blank">HTML用法大全</a>
+ -模仿使用
+ -<a href="https://blog.csdn.net/The_Best_Hacker/article/details/82891527" target="_blank">HTML用法大全</a>
+
+ #来贴个音乐
+ -IE:<body bgsound="https://c.y.qq.com/base/fcgi-bin/u?__=FZHtiom" loop=infinite>
 
 # 正式开始投入使用了 （2020.1.26）
 
