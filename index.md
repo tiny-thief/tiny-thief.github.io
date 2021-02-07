@@ -11,8 +11,11 @@
 ## edit file 的摸索
  - [。。。](#。。。哈哈哈) 复制的
  - [。。。](#。。。高规格） 自打的
-差别在哪呢
-
+我尝试使用HTML语言
+<B>来做个链接吧
+<a href="要跳转的目标路径" target="_blank">要输入的文字</a>
+模仿使用
+<a href="https://blog.csdn.net/The_Best_Hacker/article/details/82891527" target="_blank">HTML用法大全</a>
 
 # 正式开始投入使用了 （2020.1.26）
 
